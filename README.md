@@ -3,7 +3,7 @@
 
 Um projeto desenvolvido por Eduardo Le Masson <eduardolemasson@midiahome.com.br>
 
-FEATURES:
+## FEATURES:
 
   - Sistema Totalmente Autônomo e Inteligente;
   - Micro-estação meteorológica (Medição de Humidade, Temperatura e Luminosidade);
@@ -11,4 +11,15 @@ FEATURES:
   - Controle Automatizado de Irrigação;
   - Registro de todas as medições em storage MicroSD
   - Comunicação Bluetooth com dispositivos Mobile para controle/leitura em tempo real
-  - Consumo de Energia Elétrica via Fotocélulas Solares & Hidrelétrica
+  - Consumo de Energia Elétrica via Fotocélulas Solares
+
+## BENEFÍCIOS:
+
+  - Alimentos ricos em nutrientes, livres de agrotóxicos e extremamente frescos;
+  - Protegido de pragas;
+  - Alta produtividade
+  - Uso racional dos recursos naturais;
+  - Economia de Água;
+  - Economia de Energia Elétrica;
+  - Produz a própria energia que consome, Isolado da Rede de Distribuição Elétrica e livre de quedas na rede;
+
